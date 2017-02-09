@@ -4,7 +4,7 @@
 
 ### Project Description
 
-This is the 1st project for the Machine Learning Engineer Nanodegree. In this project, we use the Boston Housing dataset to train an optimal decision tree algorithm to predict the best selling price of a home in Boston based on certain features of the homes and statistical analysis. 
+This is the 2nd project for the Machine Learning Engineer Nanodegree. In this project, we use the Boston Housing dataset to train an optimal decision tree algorithm to predict the best selling price of a home in Boston based on certain features of the homes and statistical analysis. 
 
 The dataset for this project contains aggregated data on various features for houses in Greater Boston communities, including the median value of homes for each of those areas. This dataset was preprocessed through log transformations (to reduce impact of highly skewed features), feature scaling (to ensure the features were treated equally) and one-hot-encoding (to treat non-numeric features).
 
